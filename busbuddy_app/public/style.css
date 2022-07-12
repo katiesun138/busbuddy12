@@ -4,7 +4,7 @@ body{
 }
 
 body {
-    background-image: radial-gradient(#ffe4e4 50%, transparent 10%),
+    background-image: radial-gradient(white 50%, transparent 10%),
         radial-gradient(#fafafa 20%, transparent 20%);
     background-color: white;
     background-position: 0 0, 50px 50px;
