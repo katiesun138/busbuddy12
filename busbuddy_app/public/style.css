@@ -12,8 +12,8 @@ body {
   }
 
   .circle {
-    height: 150px;
-    width: 150px;
+    height: 175px;
+    width: 175px;
     background-color: rgb(161, 159, 159);
     border-radius: 50%;
   }
@@ -40,3 +40,9 @@ button {
     border-radius: 5px;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
