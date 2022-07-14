@@ -46,3 +46,28 @@ button {
     margin-right: auto;
     width: 50%;
   }
+
+  table{
+    text-align: left;
+    padding-left: 100px;
+  }
+
+  .checked, .icon, .alarm, .trash, .star, .edit{
+    height: 30px;
+  }
+
+  .icon{
+    text-align: center;
+  }
+
+.extras{
+  height: 600px;
+}
+
+.addonImage{
+  height: 400px;
+}
+
+.addonImageBig{
+  height: 300px;
+}
